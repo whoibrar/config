@@ -42,7 +42,7 @@ print_info() {
 
     info "Disk" disk
 
-    # iA not the below ones
+    # i not the below ones
     info "Resolution" resolution
     info "DE" de
     info "WM" wm
